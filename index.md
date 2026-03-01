@@ -7,7 +7,6 @@
 我只做一件事：
 
 > 把你的想法，真正落地成一个可维护、可扩展、可成交的 Shopify 独立站。
-> 
 
 ## 如果你遇到过这些问题
 
@@ -28,8 +27,6 @@
 1. 想自己改内容，发现根本不好改
 2. 页面和模块没法继续扩展
 
----
-
 ## **服务内容**
 
 ### **Shopify 二次开发**
@@ -42,8 +39,6 @@
 4. 想加动效或高级交互
 5. 想重做部分页面但不想全部推翻
 
----
-
 ### **Shopify 独立站定制开发**
 
 如果你已经有参考网站、设计稿，或者明确的竞品目标，我可以按结构和交互逻辑高还原落地。
@@ -51,8 +46,6 @@
 1. 基于参考站或设计稿做页面开发
 2. 兼顾前台效果和后台可维护性
 3. 适配桌面、平板和手机端
-
----
 
 ## 案例展示
 
@@ -64,8 +57,6 @@
 
 我的复刻版本：[Pagerie仿站](https://pagerie-copy.myshopify.com/)
 
----
-
 ## 为什么直接找我，而不是找建站公司？
 
 ### ✔ 沟通链路只有 1 层
@@ -74,15 +65,11 @@
 
 没有中间销售，没有项目经理转述，。你的需求不会被“翻译错”。
 
----
-
 ### ✔ **响应更及时**
 
 我是全职建站，不是兼职建站，同一时间只做一个网站。
 
 开发期间有新想法、新问题，可以直接沟通，不需要层层排队确认。
-
----
 
 ### ✔ 明确边界，不乱承诺
 
@@ -93,8 +80,6 @@
 我不会为了接单答应所有功能和需求。
 
 我更在意长期合作，而不是一单成交。
-
----
 
 ## 我的服务
 
@@ -125,8 +110,6 @@
 - 希望找长期合作的开发者
 - 有一定预算
 
----
-
 ## 报价
 
 建站 800 元起，二次开发 200 元起。
@@ -141,11 +124,11 @@
 2. [产品页](https://brevite.co/products/the-jumper-photo-2-0?variant=53003168186734) 900
 3. [集合页](https://brevite.co/collections/school) 400
 4. 页脚的次级页面 800（包含以下几个页面）
-    1. [Contact Us](https://brevite.co/pages/contactus?hcUrl=%2Fen-US)
-    2. [Return](https://brevite.co/pages/contactus?hcUrl=%2Fen-US%2Farticles%2Freturn-134740)
-    3. [Warranty](https://brevite.co/pages/contactus?hcUrl=%2Fen-US%2Farticles%2Fwarranty-134741)
-    4. [Wholesale](https://brevite.co/pages/carry-our-brand)
-    5. [Corporate Sales](https://brevite.co/pages/b2b)
+   1. [Contact Us](https://brevite.co/pages/contactus?hcUrl=%2Fen-US)
+   2. [Return](https://brevite.co/pages/contactus?hcUrl=%2Fen-US%2Farticles%2Freturn-134740)
+   3. [Warranty](https://brevite.co/pages/contactus?hcUrl=%2Fen-US%2Farticles%2Fwarranty-134741)
+   4. [Wholesale](https://brevite.co/pages/carry-our-brand)
+   5. [Corporate Sales](https://brevite.co/pages/b2b)
 
 **以上参考价默认不包含**
 
@@ -162,7 +145,7 @@
 3. 去掉页脚的次级页面 —— 精简内容，信息放在主页
 4. 去掉邮箱订阅框 —— 如果前期不写内容发邮箱给消费者的话
 5. 去掉PC端布局 —— 先上线手机端
-6. 去掉付款  ——  如果你是做B端外贸展示站
+6. 去掉付款 —— 如果你是做B端外贸展示站
 7. 去掉任何对你当前阶段不必要的部分
 
 ## 联系方式
