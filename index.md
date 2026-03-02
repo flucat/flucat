@@ -57,7 +57,7 @@
 
 原网站：[Pagerie](https://www.pagerie.com/) —— 一个高端宠物品牌网站
 
-我的复刻版本：[Pagerie仿站](https://pagerie-copy.myshopify.com/) （密码123，密码123，密码123）
+我的复刻版本：[Pagerie仿站](https://pagerie-copy.myshopify.com/) （**网站访问密码123，推荐用外网访问**）
 
 ## 为什么直接找我，而不是找建站公司？
 
