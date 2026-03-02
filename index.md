@@ -8,7 +8,7 @@
 
 > 把你的想法，真正落地成一个可维护、可扩展、可成交的 Shopify 独立站。
 
-微信：fluidcat
+微信：xiaozhoujianzhan
 
 ## 如果你遇到过这些问题
 
@@ -152,7 +152,7 @@
 
 ## 联系方式
 
-微信：fluidcat
+微信：xiaozhoujianzhan
 
 小红书：[小周建站](https://xhslink.com/m/3JpIc6Cj3D8)
 
