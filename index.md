@@ -154,7 +154,11 @@
 
 微信：fluidcat
 
-小红书：[小周建站](https://xhslink.com/m/3JpIc6Cj3D8)
+抖音：小周建站（只接Shopify）
+
+2- 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/uJAG4ODU_uA/ 7@8.com :0pm
+
+![alt text](742c455717891fccdb5a1e1f94a3ac13.jpg)
 
 电子邮箱：xiaozhoujianzhan@outlook.com
 
